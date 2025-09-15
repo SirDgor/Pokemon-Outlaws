@@ -1,0 +1,23 @@
+ID	可用版本	角色名称	角色种族	角色小图标	角色图片包名	角色图片名称	行为图标与角色顶部的相对位子	碰撞体宽度	血条的长度	预设体名字	职业定位
+int	float	string	List<Race>	string	string	string	Vector2	float	int	string	CharacterClass
+ID	CanUseVersion	Name	Race	Icon	SpritePackage	Sprite	ActionIconPos	ColliderWidth	HealthLength	PrefabName	CharacterClass
+ModCharacterID(1)	1	Hero_Name_Zubat	[-1]	Shop_HeroIcon_Zubat	hero	HeroZubat	{"x":0,"y":0}	3.6	280	Character_SpritePrefab	1
+ModCharacterID(2)	1	Hero_Name_Golbat	[-1]	Shop_HeroIcon_Golbat	hero	HeroZubat	{"x":0,"y":0}	3.6	280	Character_SpritePrefab	1
+ModCharacterID(3)	1	Hero_Name_Crobat	[-1]	Shop_HeroIcon_Crobat	hero	HeroZubat	{"x":0,"y":0}	3.6	280	Character_SpritePrefab	1
+ModCharacterID(101)	1	Rattata	[1]		human	EnemyRattata	{"x":0,"y":-2.6}	3.6	280	Character_SpritePrefab	3
+ModCharacterID(102)	1	Lickitung	[1]		human	EnemyLickitung	{"x":0,"y":-1.6}	3.6	280	Character_SpritePrefab	3
+ModCharacterID(103)	1	Ekans	[1]		human	EnemyEkans	{"x":0,"y":-1.6}	3.6	280	Character_SpritePrefab	3
+ModCharacterID(500)	1	Team Rocket Grunt (Male)	[-1]	HeroRocketIconMale	hero	HeroRocketAnim1	{"x":0,"y":0}	3.6	280	Character_SpritePrefab	1
+ModCharacterID(501)	1	HeroRocketAnim2	[-1]		hero	HeroRocketAnim2	{"x":0,"y":0}	3.6	280	Character_SpritePrefab	1
+ModCharacterID(502)	1	HeroRocketAnim3	[-1]		hero	HeroRocketAnim3	{"x":0,"y":0}	3.6	280	Character_SpritePrefab	1
+ModCharacterID(503)	1	HeroRocketAnim4	[-1]		hero	HeroRocketAnim4	{"x":0,"y":0}	3.6	280	Character_SpritePrefab	1
+ModCharacterID(504)	1	HeroRocketAnim5	[-1]		hero	HeroRocketAnim5	{"x":0,"y":0}	3.6	280	Character_SpritePrefab	1
+ModCharacterID(505)	1	HeroRocketAnim6	[-1]		hero	HeroRocketAnim6	{"x":0,"y":0}	3.6	280	Character_SpritePrefab	1
+ModCharacterID(506)	1	HeroRocketAnim7	[-1]		hero	HeroRocketAnim7	{"x":0,"y":0}	3.6	280	Character_SpritePrefab	1
+ModCharacterID(507)	1	HeroRocketAnim8	[-1]		hero	HeroRocketAnim8	{"x":0,"y":0}	3.6	280	Character_SpritePrefab	1
+ModCharacterID(508)	1	HeroRocketAnim9	[-1]		hero	HeroRocketAnim9	{"x":0,"y":0}	3.6	280	Character_SpritePrefab	1
+ModCharacterID(509)	1	HeroRocketAnim10	[-1]		hero	HeroRocketAnim10	{"x":0,"y":0}	3.6	280	Character_SpritePrefab	1
+ModCharacterID(510)	1	HeroRocketAnim11	[-1]		hero	HeroRocketAnim11	{"x":0,"y":0}	3.6	280	Character_SpritePrefab	1
+ModCharacterID(511)	1	HeroRocketAnim12	[-1]		hero	HeroRocketAnim12	{"x":0,"y":0}	3.6	280	Character_SpritePrefab	1
+ModCharacterID(512)	1	HeroRocketAnim13	[-1]		hero	HeroRocketAnim13	{"x":0,"y":0}	3.6	280	Character_SpritePrefab	1
+ModCharacterID(513)	1	HeroRocketAnim14	[-1]		hero	HeroRocketAnim14	{"x":0,"y":0}	3.6	280	Character_SpritePrefab	1
