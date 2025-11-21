@@ -1,3 +1,0 @@
-ID	可用版本	可用平台	卡牌稀有度	购买价格	升级价格	掉率	能通过怪物获取	能通过Boss获取	能通过商店获取	能通过事件获取	能通过诅咒事件获取	能通过战斗内获取	能通过融合获取	是否解锁	掉落判定	可用世界	类别筛选(1.通用 2.地图二 3.世界三)
-int	float	string	int	int	int	int	int	int	int	int	int	int	int	int	Determine	List<int>	int
-ID	CanUseVersion	Platformlimit	CardRareDegree	Price	UpGradePrice	DropRate	GetByEnemy	GetByBoss	GetByShop	GetByEvent	GetByCurseEvent	GetInBattle	GetInFusion	UnlockState	Determine	Worlds	Filter
