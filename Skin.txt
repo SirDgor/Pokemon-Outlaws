@@ -1,4 +1,0 @@
-ID	可用版本	所属英雄ID	角色描述	角色描述	所用角色ID	地图头像图片名称	角色最大血量	角色血量波动值	初始子弹	初始金币	初始卡牌	初始效果
-int	float	int	string	string	int	string	int	int	int	int	int[]	EventActionTree[]
-ID	CanUseVersion	HeroID	HeroAbilityNameKey	HeroDesKey	CharacherID	MapIcon	maxHealth	HealthFloat	StartAmmo	StartCoins	Cards	StartEvent
-ModSkinID(1)	1	ModHeroID(1)	HeroAbilityName_Zubat	HeroDes_Zubat	ModCharacterID(1)	MapIcon_Zubat	40	0	3	150	[ModCardID(1800),ModCardID(1800),ModCardID(1801),ModCardID(2800),ModCardID(2800),ModCardID(2801),ModCardID(3005),ModCardID(3007),ModCardID(3800),ModCardID(3800)]	[{"chance":1,"baseActions":[{"name":"AddHideRelics","values":["9112"]},{"name":"AddHideRelics","values":["ModRelicID(10001)"]}]}]
