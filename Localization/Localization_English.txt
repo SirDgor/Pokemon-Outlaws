@@ -1,0 +1,1127 @@
+Shop_Name_HeroMaleRocket	Pokemon Trainer																								
+Hero_Name_Zubat	Zubat																								
+HeroAbilityName_Zubat	Gotta Catch 'Em All! / Infiltrator																								
+HeroDes_Zubat	Gotta Catch 'Em All - At the start of battle, gain up to 2 Types. Enemies gain Types as well, and their effectiveness is displayed by hovering over a certain type. Attacks may also have a Type. Enemy Attacks that you would be Immune to are instead considered a Resistance. \nInfiltrator - When you have <color=#FAC970>Dodge</color>, all attacks gain <color=#FAC970>Armor Penetration</color>.																								
+																									
+----- Boss Names -----																									
+																									
+BossNameM1S1B1	Gym Leader Brock																								
+BossNameM1S1B2	Gym Leader Misty																								
+BossNameM1S1B3	Gym Leader Lt. Surge																								
+BossNameM1S1B4	Gym Leader Erika																								
+BossNameM1S2B1	Gym Leader Koga																								
+BossNameM1S2B2	Gym Leader Sabrina																								
+BossNameM1S2B3	Gym Leader Blaine																								
+BossNameM1S2B4	Gym Leader Giovanni																								
+BossNameM1S3B1	Elite Four Member Lorelai																								
+BossNameM1S3B2	Elite Four Member Bruno																								
+BossNameM1S3B3	Elite Four Member Agatha																								
+BossNameM1S3B4	Elite Four Member Lance																								
+																									
+----- Statuses -----																									
+																									
+TypeDesc_Fire	<color=#e6613e>Fire</color>\n\nWeak to: <color=#a6743c>Ground</color>, <color=#a8a580>Rock</color>, <color=#329ae6>Water</color>. \n\nResistant to: <color=#9fa224>Bug</color>, <color=#6cacc6>Steel</color>, <color=#e6613e>Fire</color>, <color=#419a38>Grass</color>, <color=#48cacb>Ice</color>, <color=#e18de0>Fairy</color>.																								
+TypeDesc_Water	<color=#329ae6>Water</color>\n\nWeak to: <color=#419a38>Grass</color>, <color=#e2bc2a>Electric</color>. \n\nResistant to: <color=#6cacc6>Steel</color>, <color=#e6613e>Fire</color>, <color=#329ae6>Water</color>, <color=#48cacb>Ice</color>																								
+TypeDesc_Grass	<color=#419a38>Grass</color>\n\nWeak to: <color=#74acd0>Flying</color>, <color=#9654cc>Poison</color>, <color=#9fa224>Bug</color>, <color=#e6613e>Fire</color>, <color=#48cacb>Ice</color>. \n\nResistant to: <color=#a6743c>Ground</color>, <color=#329ae6>Water</color>, <color=#419a38>Grass</color>, <color=#e2bc2a>Electric</color>.																								
+TypeDesc_Electric	<color=#e2bc2a>Electric</color>\n\nWeak to: <color=#a6743c>Ground</color>. \n\nResistant to: <color=#74acd0>Flying</color>, <color=#e2bc2a>Electric</color>, <color=#6cacc6>Steel</color>.																								
+TypeDesc_Psychic	<color=#f16990>Psychic</color>\n\nWeak to: <color=#9fa224>Bug</color>, <color=#714670>Ghost</color>, <color=#504647>Dark</color>. \n\nResistant to: <color=#e59122>Fighting</color>, <color=#f16990>Psychic</color>.																								
+TypeDesc_Ice	<color=#48cacb>Ice</color>\n\nWeak to: <color=#e59122>Fighting</color>, <color=#a8a580>Rock</color>, <color=#6cacc6>Steel</color>, <color=#e6613e>Fire</color>. \n\nResistant to: <color=#48cacb>Ice</color>.																								
+TypeDesc_Dragon	<color=#576fbe>Dragon</color>\n\nWeak to: <color=#48cacb>Ice</color>, <color=#576fbe>Dragon</color>, <color=#e18de0>Fairy</color>. \n\nResistant to: <color=#e6613e>Fire</color>, <color=#329ae6>Water</color>, <color=#419a38>Grass</color>, <color=#e2bc2a>Electric</color>.																								
+TypeDesc_Dark	<color=#504647>Dark</color>\n\nWeak to: <color=#e59122>Fighting</color>, <color=#9fa224>Bug</color>, <color=#e18de0>Fairy</color>. \n\nResistant to: <color=#714670>Ghost</color>, <color=#504647>Dark</color>. \n\nImmune to: <color=#f16990>Psychic</color>.																								
+TypeDesc_Fairy	<color=#e18de0>Fairy</color>\n\nWeak to: <color=#9654cc>Poison</color>, <color=#6cacc6>Steel</color>. \n\nResistant to: <color=#e59122>Fighting</color>, <color=#9fa224>Bug</color>, <color=#504647>Dark</color>. \n\nImmune to: <color=#576fbe>Dragon</color>.																								
+TypeDesc_Normal	<color=#848484>Normal</color>\n\nWeak to: <color=#e59122>Fighting</color>. \n\nResistant to: None. \n\nImmune to: <color=#714670>Ghost</color>.																								
+TypeDesc_Fighting	<color=#e59122>Fighting</color>\n\nWeak to: <color=#74acd0>Flying</color>, <color=#f16990>Psychic</color>, <color=#e18de0>Fairy</color>. \n\nResistant to: <color=#a8a580>Rock</color>, <color=#9fa224>Bug</color>, <color=#504647>Dark</color>.																								
+TypeDesc_Flying	<color=#74acd0>Flying</color>\n\nWeak to: <color=#a8a580>Rock</color>, <color=#e2bc2a>Electric</color>, <color=#48cacb>Ice</color>. \n\nResistant to: <color=#e59122>Fighting</color>, <color=#9fa224>Bug</color>, <color=#419a38>Grass</color>. \n\nImmune to: <color=#a6743c>Ground</color>.																								
+TypeDesc_Poison	<color=#9654cc>Poison</color>\n\nWeak to: <color=#a6743c>Ground</color>, <color=#f16990>Psychic</color>. \n\nResistant to: <color=#e59122>Fighting</color>, <color=#9654cc>Poison</color>, <color=#9fa224>Bug</color>, <color=#419a38>Grass</color>, <color=#e18de0>Fairy</color>.																								
+TypeDesc_Ground	<color=#a6743c>Ground</color>\n\nWeak to: <color=#329ae6>Water</color>, <color=#419a38>Grass</color>, <color=#48cacb>Ice</color>. \n\nResistant to: <color=#9654cc>Poison</color>, <color=#a8a580>Rock</color>. \n\nImmune to: <color=#e2bc2a>Electric</color>.																								
+TypeDesc_Rock	<color=#a8a580>Rock</color>\n\nWeak to: <color=#e59122>Fighting</color>, <color=#a6743c>Ground</color>, <color=#6cacc6>Steel</color>, <color=#329ae6>Water</color>, <color=#419a38>Grass</color>. \n\nResistant to: <color=#848484>Normal</color>, <color=#74acd0>Flying</color>, <color=#9654cc>Poison</color>, <color=#e6613e>Fire</color>.																								
+TypeDesc_Bug	<color=#9fa224>Bug</color>\n\nWeak to: <color=#74acd0>Flying</color>, <color=#a8a580>Rock</color>, <color=#e6613e>Fire</color>. \n\nResistant to: <color=#e59122>Fighting</color>, <color=#a6743c>Ground</color>, <color=#419a38>Grass</color>.																								
+TypeDesc_Ghost	<color=#714670>Ghost</color>\n\nWeak to: <color=#714670>Ghost</color>, <color=#504647>Dark</color>. \n\nResistant to: <color=#9654cc>Poison</color>, <color=#9fa224>Bug</color>. \n\nImmune to: <color=#848484>Normal</color>, <color=#e59122>Fighting</color>.																								
+TypeDesc_Steel	<color=#6cacc6>Steel</color>\n\nWeak to: <color=#e59122>Fighting</color>, <color=#a6743c>Ground</color>, <color=#e6613e>Fire</color>. \n\nResistant to: <color=#848484>Normal</color>, <color=#74acd0>Flying</color>, <color=#a8a580>Rock</color>, <color=#9fa224>Bug</color>, <color=#6cacc6>Steel</color>, <color=#419a38>Grass</color>, <color=#f16990>Psychic</color>, <color=#48cacb>Ice</color>, <color=#576fbe>Dragon</color>, <color=#e18de0>Fairy</color>.  \n\nImmune to: <color=#9654cc>Poison</color>.																								
+EffectDesc_Frostbite	<color=#48cacb>Frostbite</color>: Target gains 75% reduced Armor and takes 1/8th of their Current Health as Damage at the start of their turn.																								
+EffectDesc_Burn	<color=#e6613e>Burn</color>: Target deals 25% less Damage and takes 1/8th of their Current Health as Damage at the start of their turn.																								
+EffectDesc_Poison	<color=#9654cc>Poison</color>: Target loses Health equal to the <color=#9654cc>Poison</color> stacks at the start of their turn. Has a 20% to clear up at the end of their turn.																								
+EffectDesc_BadPoison	<color=#9654cc>Toxic Poison</color>: Target loses Health equal to the <color=#9654cc>Toxic Poison</color> stacks at the start of their turn, then doubles the stacks. Has a 25% to clear up at the end of their turn.																								
+EffectDesc_Paralysis	<color=#e2bc2a>Paralysis</color>: Target deals less damage equal to the amount of <color=#e2bc2a>Paralysis</color> stacks.																								
+EffectDesc_Sleep	<color=#714670>Sleep</color>: Target heals for 1/4th of their Missing HP at the start of their turn. Attacks on this target are a <color=#FAC970>Critical Hit</color>. and remove a stack of <color=#714670>Sleep</color>.																								
+EffectDesc_Confusion	<color=#f16990>Confusion</color>: Target has a 25% chance to attack a random enemy for 20% of their Current Health. 																								
+EffectDesc_LeechSeed	<color=#419a38>Leech Seed</color>:Target is <color=#419a38>Seeded</color>, taking 1/8th of their Current HP as Damage and healing the other characters for this value.																								
+EffectDesc_DamageReduction	Target takes Reduced Damage for the rest of their turn, equal to 5% per stack.																								
+EffectDesc_AquaRing	<color=#329ae6>Aqua Ring</color>: Target heals for 1/16th of their Max HP at the start of their turn. Heal is doubled on Water or Grass Types.																								
+EffectDesc_LockOn	<color=#848484>Lock-On</color>: Your next Attack will always hit and gains a +4 All-Types Damage Boost.																								
+EffectDesc_SturdyPassive	<color=#a8a580>Sturdy</color>: This character gains 20% of their Current Health as Armor at the start of each turn. Attacks can only do a max of 20% of the characters' Max HP at one time.																								
+EffectDesc_NaturalCurePassive	<color=#329ae6>Natural Cure</color>: This character has a 50% chance to remove their Status at the end of each turn.																								
+EffectDesc_RegeneratorPassive	<color=#419a38>Regenerator</color>: At the end of this characters' turn, they heal for 1/4th of their Missing HP.																								
+EffectDesc_StaticPassive	<color=#e2bc2a>Static</color>: Melee Attacks against this character have a 30% chance to apply <color=#e2bc2a>Paralysis</color> x3.																								
+EffectDesc_EffectSporePassive	<color=#419a38>Effect Spore</color>:  Melee Attacks against this character have a 10% chance to apply <color=#e2bc2a>Paralysis</color>, <color=#9654cc>Toxic Poison</color>, <color=#e6613e>Burn</color>, <color=#48cacb>Frostbite</color>, or <color=#714670>Sleep</color> x3. Each chance is separate from the other chances																								
+																									
+----- Relic Names -----																									
+																									
+Relic_NefariousTM	Nefarious TM Case																								
+Relic_FirePlate	Flame Plate																								
+Relic_WaterPlate	Splash Plate																								
+Relic_GrassPlate	Meadow Plate																								
+Relic_ElectricPlate	Zap Plate																								
+Relic_PsychicPlate	Mind Plate																								
+Relic_IcePlate	Frost Plate																								
+Relic_DragonPlate	Draco Plate																								
+Relic_DarkPlate	Dread Plate																								
+Relic_FairyPlate	Pixie Plate																								
+Relic_NormalPlate	Blank Plate																								
+Relic_FightingPlate	Fist Plate																								
+Relic_FlyingPlate	Sky Plate																								
+Relic_PoisonPlate	Miasma Plate																								
+Relic_GroundPlate	Earth Plate																								
+Relic_RockPlate	Stone Plate																								
+Relic_BugPlate	Insect Plate																								
+Relic_GhostPlate	Spooky Plate																								
+Relic_SteelPlate	Iron Plate																								
+																									
+----- Relic Descriptions -----																									
+																									
+RelicDesc_NefariousTM	A TM case containing underhanded and downright rude training techniques. Allows various cards to be found. Also grants +1 to all Dodge gained.																								
+RelicDesc_FirePlate	A <color=#e6613e>Fiery</color> Plate, granting +1 <color=#e6613e>Fire</color> Damage and changing your type to <color=#e6613e>Fire</color>. Stacks with other Plates																								
+RelicDesc_WaterPlate	A <color=#329ae6>Wet</color> Plate, granting +1 <color=#329ae6>Water</color> Damage and changing your type to <color=#329ae6>Water</color>. Stacks with other Plates																								
+RelicDesc_GrassPlate	A <color=#419a38>Verdant</color> Plate, granting +1 <color=#419a38>Grass</color> Damage and changing your type to <color=#419a38>Grass</color>. Stacks with other Plates																								
+RelicDesc_ElectricPlate	A <color=#e2bc2a>Charged</color> Plate, granting +1 <color=#e2bc2a>Electric</color> Damage and changing your type to <color=#e2bc2a>Electric</color>. Stacks with other Plates																								
+RelicDesc_PsychicPlate	A <color=#f16990>Powerful</color> Plate, granting +1 <color=#f16990>Psychic</color> Damage and changing your type to <color=#f16990>Psychic</color>. Stacks with other Plates																								
+RelicDesc_IcePlate	A <color=#48cacb>Chilling</color> Plate, granting +1 <color=#48cacb>Ice</color> Damage and changing your type to <color=#48cacb>Ice</color>. Stacks with other Plates																								
+RelicDesc_DragonPlate	An <color=#576fbe>Exotic</color> Plate, granting +1 <color=#576fbe>Dragon</color> Damage and changing your type to <color=#576fbe>Dragon</color>. Stacks with other Plates																								
+RelicDesc_DarkPlate	A <color=#504647>Malicious</color> Plate, granting +1 <color=#504647>Dark</color> Damage and changing your type to <color=#504647>Dark</color>. Stacks with other Plates																								
+RelicDesc_FairyPlate	A <color=#e18de0>Mystical</color> Plate, granting +1 <color=#e18de0>Fairy</color> Damage and changing your type to <color=#e18de0>Fairy</color>. Stacks with other Plates																								
+RelicDesc_NormalPlate	A <color=#848484>Bland</color> Plate, granting +1 <color=#848484>Normal</color> Damage and changing your type to <color=#848484>Normal</color>. Stacks with other Plates																								
+RelicDesc_FightingPlate	A <color=#e59122>Rough</color> Plate, granting +1 <color=#e59122>Fighting</color> Damage and changing your type to <color=#e59122>Fighting</color>. Stacks with other Plates																								
+RelicDesc_FlyingPlate	A <color=#74acd0>Lightweight</color> Plate, granting +1 <color=#74acd0>Flying</color> Damage and changing your type to <color=#74acd0>Flying</color>. Stacks with other Plates																								
+RelicDesc_PoisonPlate	A <color=#9654cc>Toxic</color> Plate, granting +1 <color=#9654cc>Poison</color> Damage and changing your type to <color=#9654cc>Poison</color>. Stacks with other Plates																								
+RelicDesc_GroundPlate	A <color=#a6743c>Rich</color> Plate, granting +1 <color=#a6743c>Ground</color> Damage and changing your type to <color=#a6743c>Ground</color>. Stacks with other Plates																								
+RelicDesc_RockPlate	A <color=#a8a580>Chiseled</color> Plate, granting +1 <color=#a8a580>Rock</color> Damage and changing your type to <color=#a8a580>Rock</color>. Stacks with other Plates																								
+RelicDesc_BugPlate	A <color=#9fa224>Chitinous</color> Plate, granting +1 <color=#9fa224>Bug</color> Damage and changing your type to <color=#9fa224>Bug</color>. Stacks with other Plates																								
+RelicDesc_GhostPlate	A <color=#714670>Frightening</color> Plate, granting +1 <color=#714670>Ghost</color> Damage and changing your type to <color=#714670>Ghost</color>. Stacks with other Plates																								
+RelicDesc_SteelPlate	A <color=#6cacc6>Sturdy</color> Plate, granting +1 <color=#6cacc6>Steel</color> Damage and changing your type to <color=#6cacc6>Steel</color>. Stacks with other Plates																								
+																									
+----- Card Names -----																									
+																									
+ModCardNameTest1	Poison Test																								
+ModCardNameTest2	Toxic Test																								
+ModCardNameTest3	Frostbite Test																								
+ModCardNameTest4	Burn Test																								
+ModCardNameTest5	Paralysis Test																								
+ModCardNameTest6	Sleep Test																								
+ModCardNameTest7	Confusion Test																								
+ModCardNameTest8	Leech Seed Test																								
+ModCardNameAttackMelee1	Tackle																								
+ModCardNameAttackMelee2	Low Kick																								
+ModCardNameAttackMelee3	Double Edge																								
+ModCardNameAttackMelee4	Mud Slap																								
+ModCardNameAttackMelee5	Acrobatics																								
+ModCardNameAttackMelee6	Smack Down																								
+ModCardNameAttackMelee7	Thief																								
+ModCardNameAttackMelee8	Payback																								
+ModCardNameAttackMelee9	Rage																								
+ModCardNameAttackMelee10	Shadow Sneak																								
+ModCardNameAttackRanged1	Ember																								
+ModCardNameAttackRanged2	Water Gun																								
+ModCardNameAttackRanged3	Absorb																								
+ModCardNameAttackRanged4	Rock Throw																								
+ModCardNameAttackRanged5	Stored Power																								
+ModCardNameAttackRanged6	Confusion																								
+ModCardNameAttackRanged7	Freeze-Dry																								
+ModCardNameAttackRanged8	Electroweb																								
+ModCardNameAttackRanged9	Bitter Malice																								
+ModCardNameAttackRanged10	Brine																								
+ModCardNameSkill1	Basic <color=#419a38>Grass</color> Energy																								
+ModCardNameSkill2	Basic <color=#e6613e>Fire</color> Energy																								
+ModCardNameSkill3	Basic <color=#329ae6>Water</color> Energy																								
+ModCardNameSkill4	Basic <color=#e2bc2a>Lightning</color> Energy																								
+ModCardNameSkill5	Basic <color=#f16990>Psychic</color> Energy																								
+ModCardNameSkill6	Basic <color=#e59122>Fighting</color> Energy																								
+ModCardNameSkill7	Basic <color=#504647>Dark</color> Energy																								
+ModCardNameSkill8	Basic <color=#6cacc6>Metal</color> Energy																								
+ModCardNameSkill9	Basic <color=#e18de0>Fairy</color> Energy																								
+ModCardNameSkill10	Basic <color=#576fbe>Dragon</color> Energy																								
+ModCardNameSkill11	Ice Beam																								
+ModCardNameSkill12	Thunder Bolt																								
+ModCardNameSkill13	Smog																								
+ModCardNameSkill14	Fairy Wind																								
+ModCardNameSkill15	Echoed Voice																								
+ModCardNameSkill16	Twister																								
+ModCardNameSkill17	Hex																								
+ModCardNameSkill18	Dark Pulse																								
+ModCardNameSkill19	Signal Beam																								
+ModCardNameSkill20	Vaccuum Wave																								
+ModCardNameSkill21	Protect																								
+ModCardNameSkill22	Rest																								
+ModCardNameSkill23	Thunder Wave																								
+ModCardNameSkill24	Will o Wisp																								
+ModCardNameSkill25	Confuse Ray																								
+ModCardNameSkill26	Aqua Ring																								
+ModCardNameSkill27	Leech Seed																								
+ModCardNameSkill28	Lock In																								
+ModCardNameSkill29	Harden																								
+ModCardNameSkill30	Laser Focus																								
+ModCardNameSkill31	Obstruct																								
+ModCardNameSkill32	Venom Drench																								
+ModCardNameSkill33	Rage Powder																								
+ModCardNameSkill34	Nasty Plot																								
+ModCardNameSkill35	Slack Off																								
+ModCardNameSkill36	Toxic																								
+ModCardNameSkill37	Focus Energy																								
+ModCardNameSkill38	Dark Void																								
+ModCardNameSkill39	Swagger																								
+ModCardNameSkill40	Glare																								
+ModCardNameZubat1	Poison Fang																								
+ModCardNameZubat2	Leech Life																								
+ModCardNameZubat3	Air Slash																								
+ModCardNameZubat4	Shadow Ball																								
+ModCardNameZubat5	Fly																								
+ModCardNameCurse1	Slowed																								
+ModCardNameCurse2	Taunted																								
+ModCardNameCurse3	Recharging																								
+ModCardNameCurse4	Drowsy																								
+ModCardNameCurse5	Imprisoned																								
+ModCardNameCurse6	Grounded																								
+ModCardNameCurse7	Cursed																								
+ModCardNameCurse8	Tarred																								
+ModCardNameCurse9	Nightmare																								
+ModCardNameCurse10	Encore																								
+																									
+----- Card Info ------																									
+																									
+ModCardInfoTest1	Poison Test																								
+ModCardInfoTest2	Toxic Test																								
+ModCardInfoTest3	Frostbite Test																								
+ModCardInfoTest4	Burn Test																								
+ModCardInfoTest5	Paralysis Test																								
+ModCardInfoTest6	Sleep Test																								
+ModCardInfoTest7	Confusion Test																								
+ModCardInfoTest8	Leech Seed Test																								
+ModCardInfoAttackMelee1	Melee. Deal 5 <color=#848484>Normal</color> Damage.																								
+ModCardInfoAttackMelee1Up	Melee. Deal 8 <color=#848484>Normal</color> Damage.																								
+ModCardInfoAttackMelee2	Melee. Deal 5 <color=#e59122>Fighting</color> Damage. <color=#FAC970>Critical Hit</color> on <color=#FAC970>Heavy</color> enemies.																								
+ModCardInfoAttackMelee2Up	Melee. Deal 7 <color=#e59122>Fighting</color> Damage. <color=#FAC970>Critical Hit</color> on <color=#FAC970>Heavy</color> enemies.																								
+ModCardInfoAttackMelee3	Melee. Deal 12 <color=#848484>Normal</color> Damage. 25% <color=#FAC970>Recoil</color>																								
+ModCardInfoAttackMelee3Up	Melee. Deal 15 <color=#848484>Normal</color> Damage. 25% <color=#FAC970>Recoil</color>																								
+ModCardInfoAttackMelee4	Melee. Deal 4 <color=#a6743c>Ground</color> Damage. Applies <color=#FAC970>Blind</color> x1																								
+ModCardInfoAttackMelee4Up	Melee. Deal 6 <color=#a6743c>Ground</color> Damage. Applies <color=#FAC970>Blind</color> x2																								
+ModCardInfoAttackMelee5	Melee. Deal 4 <color=#74acd0>Flying</color> Damage. Deals +1 Damage per empty Relic slot.																								
+ModCardInfoAttackMelee5Up	Melee. Deal 6 <color=#74acd0>Flying</color> Damage. Deals +2 Damage per empty Relic slot.																								
+ModCardInfoAttackMelee6	Melee. Deal 5 <color=#a8a580>Rock</color> Damage. If the target is a <color=#74acd0>Flying</color> Type, they lose their <color=#74acd0>Flying</color> Type for the rest of battle.																								
+ModCardInfoAttackMelee6Up	Melee. Deal 8 <color=#a8a580>Rock</color> Damage. If the target is a <color=#74acd0>Flying</color> Type, they lose their <color=#74acd0>Flying</color> Type for the rest of battle.																								
+ModCardInfoAttackMelee7	Melee. Deal 6 <color=#504647>Dark</color> Damage. Steal 5 Coins from the enemy if they have not been hit by Thief or have more than 15 HP.																								
+ModCardInfoAttackMelee7Up	Melee. Deal 8 <color=#504647>Dark</color> Damage. Steal 7 Coins from the enemy if they have not been hit by Thief or have more than 15 HP.																								
+ModCardInfoAttackMelee8	Melee. Deal 5 <color=#504647>Dark</color> Damage. If you have lost HP this turn, deal 10 <color=#504647>Dark</color> Damage instead.																								
+ModCardInfoAttackMelee8Up	Melee. Deal 7 <color=#504647>Dark</color> Damage. If you have lost HP this turn, deal 14 <color=#504647>Dark</color> Damage instead.																								
+ModCardInfoAttackMelee9	Melee. Deal 4 <color=#848484>Normal</color> Damage. Deals +2 Damage per instance of lost HP this battle while this card is in hand. <color=#FAC970>Stay</color>																								
+ModCardInfoAttackMelee9Up	Melee. Deal 6 <color=#848484>Normal</color> Damage. Deals +3 Damage per instance of lost HP this battle while this card is in hand. <color=#FAC970>Stay</color>																								
+ModCardInfoAttackMelee10	Melee. Unplayable. When using a Melee Card, deal 2 extra Ghost <color=#714670>Ghost</color> to the target.																								
+ModCardInfoAttackMelee10Up	Melee. Unplayable. When using a Melee Card, deal 3 extra Ghost <color=#714670>Ghost</color> to the target.																								
+ModCardnfoAttackRanged1	Ranged. Deal 5 <color=#e6613e>Fire</color> Damage. Has a 20% chance to apply <color=#e6613e>Burn</color> x2																								
+ModCardnfoAttackRanged1Up	Ranged. Deal 8 <color=#e6613e>Fire</color> Damage. Has a 20% chance to apply <color=#e6613e>Burn</color> x2																								
+ModCardnfoAttackRanged2	Ranged. Deal 7 <color=#329ae6>Water</color> Damage.																								
+ModCardnfoAttackRanged2Up	Ranged. Deal 10 <color=#329ae6>Water</color> Damage.																								
+ModCardnfoAttackRanged3	Ranged. Deal 4 <color=#419a38>Grass</color> Damage. 50% <color=#FAC970>Lifesteal</color>																								
+ModCardnfoAttackRanged3Up	Ranged. Deal 6 <color=#419a38>Grass</color> Damage. 50% <color=#FAC970>Lifesteal</color>																								
+ModCardnfoAttackRanged4	Ranged. Deal 6 <color=#a8a580>Rock</color> Damage.																								
+ModCardnfoAttackRanged4Up	Ranged. Deal 9 <color=#a8a580>Rock</color> Damage.																								
+ModCardnfoAttackRanged5	Ranged. Deal 3 <color=#f16990>Psychic</color> Damage. If you have a positive status, deal +1 Damage per stack of it.																								
+ModCardnfoAttackRanged5Up	Ranged. Deal 6 <color=#f16990>Psychic</color> Damage. If you have a positive status, deal +1 Damage per stack of it.																								
+ModCardnfoAttackRanged6	Ranged. Deal 5 <color=#f16990>Psychic</color> Damage. Has a 20% chance to apply <color=#f16990>Confusion</color> x2.																								
+ModCardnfoAttackRanged6Up	Ranged. Deal 7 <color=#f16990>Psychic</color> Damage. Has a 20% chance to apply <color=#f16990>Confusion</color> x3.																								
+ModCardnfoAttackRanged7	Ranged. Deal 6 <color=#48cacb>Ice</color> Damage. Is Super-Effective against <color=#329ae6>Water</color> types.																								
+ModCardnfoAttackRanged7Up	Ranged. Deal 9 <color=#48cacb>Ice</color> Damage. Is Super-Effective against <color=#329ae6>Water</color> types.																								
+ModCardnfoAttackRanged8	Ranged. Deal 4 <color=#e2bc2a>Electric</color> Damage and lower the target's Attack by 1.																								
+ModCardnfoAttackRanged8Up	Ranged. Deal 6 <color=#e2bc2a>Electric</color> Damage and lower the target's Attack by 2.																								
+ModCardnfoAttackRanged9	Ranged. Deal 11 <color=#714670>Ghost</color> Damage. Has a 30% chance to apply <color=#48cacb>Frostbite</color> x2.																								
+ModCardnfoAttackRanged9Up	Ranged. Deal 14 <color=#714670>Ghost</color> Damage. Has a 30% chance to apply <color=#48cacb>Frostbite</color> x3.																								
+ModCardnfoAttackRanged10	Ranged. Deal 8 <color=#329ae6>Water</color> Damage. Deals 16 <color=#329ae6>Water</color> Damage when the target is below or at 50% HP.																								
+ModCardnfoAttackRanged10Up	Ranged. Deal 11 <color=#329ae6>Water</color> Damage. Deals 22 <color=#329ae6>Water</color> Damage when the target is below or at 50% HP.																								
+ModCardInfoSkill1	Skill. Reload 2. Heal 3																								
+ModCardInfoSkill1Up	Skill. Reload 3. Heal 5																								
+ModCardInfoSkill2	Skill. Reload 2. Deal 3 <color=#e6613e>Fire</color> Damage to a random enemy.																								
+ModCardInfoSkill2Up	Skill. Reload 3. Deal 5 <color=#e6613e>Fire</color> Damage to a random enemy.																								
+ModCardInfoSkill3	Skill. Reload 2 and <color=#FAC970>Remove</color> a Curse from your hand.																								
+ModCardInfoSkill3Up	Skill. Reload 3 and <color=#FAC970>Remove</color> all Curses from your hand.																								
+ModCardInfoSkill4	Skill. Reload 2. Gain <color=#FAC970>Dodge</color> x1																								
+ModCardInfoSkill4Up	Skill. Reload 3. Gain <color=#FAC970>Dodge</color> x2																								
+ModCardInfoSkill5	Skill. Reload 2. Draw 1																								
+ModCardInfoSkill5Up	Skill. Reload 3. Select and Draw 1.																								
+ModCardInfoSkill6	Skill. Reload 2. Gain <color=#FAC970>Rage</color> x1																								
+ModCardInfoSkill6Up	Skill. Reload 3. Gain <color=#FAC970>Rage</color> x2																								
+ModCardInfoSkill7	Skill. Reload 2. Apply <color=#FAC970>Blind</color> x1 to a random enemy.																								
+ModCardInfoSkill7Up	Skill. Reload 3. Apply <color=#FAC970>Blind</color> x1 to all enemies.																								
+ModCardInfoSkill8	Skill. Reload 2. Gain 4 Armor																								
+ModCardInfoSkill8Up	Skill. Reload 3. Gain 6 Armor																								
+ModCardInfoSkill9	Skill. Reload 2. Remove your current status.																								
+ModCardInfoSkill9Up	Skill. Reload 3. Remove all characters' statuses.																								
+ModCardInfoSkill10	Skill. Reload 2. Boost all Type Damage by 10%.																								
+ModCardInfoSkill10Up	Skill. Reload 3. Boost all Type Damage by 15%																								
+ModCardInfoSkill11	Skill. Deal 7 <color=#48cacb>Ice</color> Damage. Has a 30% to apply <color=#48cacb>Frostbite</color> x2																								
+ModCardInfoSkill11Up	Skill. Deal 10 <color=#48cacb>Ice</color> Damage. Has a 30% to apply <color=#48cacb>Frostbite</color> x2																								
+ModCardInfoSkill12	Skill. Deal 7 <color=#e2bc2a>Electric</color> Damage. Has a 30% to apply <color=#e2bc2a>Paralysis</color> x2																								
+ModCardInfoSkill12Up	Skill. Deal 10 <color=#e2bc2a>Electric</color> Damage. Has a 30% to apply <color=#e2bc2a>Paralysis</color> x2																								
+ModCardInfoSkill13	Skill. Deal 6 <color=#9654cc>Poison</color> Damage. Has a 30% chance to apply <color=#9654cc>Poison</color> x3 to the target.																								
+ModCardInfoSkill13Up	Skill. Deal 8 <color=#9654cc>Poison</color> Damage. Has a 30% chance to apply <color=#9654cc>Poison</color> x6 to the target.																								
+ModCardInfoSkill14	Skill. Deal 4 <color=#e18de0>Fairy</color> Damage to all enemies. <color=#FAC970>Armor Penetration</color>.																								
+ModCardInfoSkill14Up	Skill. Deal 6 <color=#e18de0>Fairy</color> Damage to all enemies. <color=#FAC970>Armor Penetration</color>.																								
+ModCardInfoSkill15	Skill. Deal 3 <color=#848484>Normal</color> Damage to all enemies. Deals +1 Damage per Skill Card in Deck.																								
+ModCardInfoSkill15Up	Skill. Deal 5 <color=#848484>Normal</color> Damage to all enemies. Deals +2 Damage per Skill Card in Deck.																								
+ModCardInfoSkill16	Skill. Deal 6 <color=#576fbe>Dragon</color> Damage and knock the enemy back.																								
+ModCardInfoSkill16Up	Skill. Deal 9 <color=#576fbe>Dragon</color> Damage and knock the enemy back.																								
+ModCardInfoSkill17	Skill. Deal 7 <color=#714670>Ghost</color> Damage. Deals double damage to enemies with a negative status.																								
+ModCardInfoSkill17Up	Skill. Deal 10 <color=#714670>Ghost</color> Damage. Deals double damage to enemies with a negative status.																								
+ModCardInfoSkill18	Skill. Deal 12 <color=#504647>Dark</color> Damage. 25% chance to <color=#FAC970>Stun</color> the target.																								
+ModCardInfoSkill18Up	Skill. Deal 15 <color=#504647>Dark</color> Damage. 25% chance to <color=#FAC970>Stun</color> the target.																								
+ModCardInfoSkill19	Skill. Deal 8 <color=#9fa224>Bug</color> Damage and apply <color=#FAC970>Weakness</color> x1																								
+ModCardInfoSkill19Up	Skill. Deal 10 <color=#9fa224>Bug</color> Damage and apply <color=#FAC970>Weakness</color> x2																								
+ModCardInfoSkill20	Skill. <color=#FAC970>Unplayable</color>. While this card is in your hand, deal 1 <color=#e59122>Fighting</color> Skill Damage to a random enemy anytime a card is played.																								
+ModCardInfoSkill20Up	Skill. <color=#FAC970>Unplayable</color>. While this card is in your hand, deal 2 <color=#e59122>Fighting</color> Skill Damage to a random enemy anytime a card is played.																								
+ModCardInfoSkill21	Skill. Gain 10% of your Max HP as Armor. When used as the first card played during your turn, take 75% reduced damage and end your turn. Damage reduction lasts until the start of your next turn.																								
+ModCardInfoSkill21Up	Skill. Gain 15% of your Max HP as Armor. When used as the first card played during your turn, take 75% reduced damage and end your turn. Damage reduction lasts until the start of your next turn.																								
+ModCardInfoSkill22	Skill. Apply <color=#714670>Sleep</color> x5 to self, heal to full and discard your hand. <color=#FAC970>Removed</color>																								
+ModCardInfoSkill22Up	Skill. Apply <color=#714670>Sleep</color> x5 to self, heal to full and discard your hand. <color=#FAC970>Removed</color>																								
+ModCardInfoSkill23	Skill. Apply <color=#e2bc2a>Paralysis</color> x2. Has a 20% chance to fail if you aren't an <color=#e2bc2a>Electric</color> Type.																								
+ModCardInfoSkill23Up	Skill. Apply <color=#e2bc2a>Paralysis</color> x3. Has a 20% chance to fail if you aren't an <color=#e2bc2a>Electric</color> Type.																								
+ModCardInfoSkill24	Skill. Apply <color=#e6613e>Burn</color> x2. Has a 20% chance to fail if you aren't a <color=#e6613e>Fire</color> type.																								
+ModCardInfoSkill24Up	Skill. Apply <color=#e6613e>Burn</color> x3. Has a 20% chance to fail if you aren't a <color=#e6613e>Fire</color> type.																								
+ModCardInfoSkill25	Skill. Has a 50% chance to apply <color=#f16990>Confusion</color> x2 to the target. If it doesn't apply, Draw 1 instead.																								
+ModCardInfoSkill25Up	Skill. Has a 50% chance to apply <color=#f16990>Confusion</color> x3 to the target. If it doesn't apply, Draw 2 instead.																								
+ModCardInfoSkill26	Skill. Gain <color=#329ae6>Aqua Ring</color> for the next 5 Turns. <color=#FAC970>Removed</color>.																								
+ModCardInfoSkill26Up	Skill. Gain <color=#329ae6>Aqua Ring</color> for the next 8 Turns. <color=#FAC970>Removed</color>.																								
+ModCardInfoSkill27	Skill. Apply <color=#419a38>Leech Seed</color> x3 to a non-<color=#419a38>Grass</color> Enemy. <color=#FAC970>Removed</color>.																								
+ModCardInfoSkill27Up	Skill. Apply <color=#419a38>Leech Seed</color> x4 to a non-<color=#419a38>Grass</color> Enemy. <color=#FAC970>Removed</color>.																								
+ModCardInfoSkill28	Skill. Your next Attack will always hit and gains a +4 All-Types Damage Boost.																								
+ModCardInfoSkill28Up	Skill. Your next Attack will always hit and gains a +4 All-Types Damage Boost.																								
+ModCardInfoSkill29	Skill. Gain 6 Armor. Increase the Armor gained from this card by 3 for the rest of battle.																								
+ModCardInfoSkill29Up	Skill. Gain 8 Armor. Increase the Armor gained from this card by 4 for the rest of battle.																								
+ModCardInfoSkill30	Skill. Your next Attack will always be a <color=#FAC970>Critical Hit</color>.																								
+ModCardInfoSkill30Up	Skill. Your next Attack will always be a <color=#FAC970>Critical Hit</color>.																								
+ModCardInfoSkill31	Skill. Gain 50% Damage Reduction. Enemies that Attack you gain Mark x1. Damage Reduction lasts until the start of your next turn. Effect fails if you have already existing Damage Reduction.																								
+ModCardInfoSkill31Up	Skill. Gain 50% Damage Reduction. Enemies that Attack you gain Mark x1. Damage Reduction lasts until the start of your next turn. Effect fails if you have already existing Damage Reduction.																								
+ModCardInfoSkill32	Skill. All enemies with <color=#9654cc>Poison</color> or <color=#9654cc>Toxic Poison</color> have their current status doubled. <color=#FAC970>Removed</color>																								
+ModCardInfoSkill32Up	Skill. All enemies with <color=#9654cc>Poison</color> or <color=#9654cc>Toxic Poison</color> have their current status tripled. <color=#FAC970>Removed</color>																								
+ModCardInfoSkill33	Skill. Apply Rage x1 to all non-<color=#419a38>Grass</color> characters.																								
+ModCardInfoSkill33Up	Skill. Apply Rage x1 to all non-<color=#419a38>Grass</color> characters, and an additional stack to yourself.																								
+ModCardInfoSkill34	Skill. Gain 40% increased Type Damage. <color=#FAC970>Removed</color>																								
+ModCardInfoSkill34Up	Skill. Gain 60% increased Type Damage. <color=#FAC970>Removed</color>																								
+ModCardInfoSkill35	Skill. Heal equal to 25% of your missing HP. Increase the ammo cost by 1 each time Slack Off is used.																								
+ModCardInfoSkill35Up	Skill. Heal equal to 25% of your missing HP. Increase the ammo cost by 1 each time Slack Off is used.																								
+ModCardInfoSkill36	Skill. Apply <color=#9654cc>Toxic Poison</color> x4																								
+ModCardInfoSkill36Up	Skill. Apply <color=#9654cc>Toxic Poison</color> x6																								
+ModCardInfoSkill37	Skill. For the rest of battle, gain 25% <color=#FAC970>Crit Chance</color>.																								
+ModCardInfoSkill37Up	Skill. For the rest of battle, gain 40% <color=#FAC970>Crit Chance</color>.																								
+ModCardInfoSkill38	Skill. Has a 60% chance to apply <color=#714670>Sleep</color> x2. Each chance is separate on each enemy.																								
+ModCardInfoSkill38Up	Skill. Has a 60% chance to apply <color=#714670>Sleep</color> x3. Each chance is separate on each enemy.																								
+ModCardInfoSkill39	Skill. Increase the target's Attack by 5, but apply <color=#f16990>Confusion</color> x3 to them.																								
+ModCardInfoSkill39Up	Skill. Increase the target's Attack by 3, but apply <color=#f16990>Confusion</color> x3 to them.																								
+ModCardInfoSkill40	Skill. Apply <color=#e2bc2a>Paralysis</color> x3 to a Non-<color=#e2bc2a>Electric</color> enemy.																								
+ModCardInfoSkill40Up	Skill. Apply <color=#e2bc2a>Paralysis</color> x3 to a Non-<color=#e2bc2a>Electric</color> enemy.																								
+ModCardInfoZubat1	Melee. Deal 5 <color=#9654cc>Poison</color> Damage. Has a 30% chance to apply <color=#9654cc>Toxic Poison</color> x2																								
+ModCardInfoZubat1Up	Melee. Deal 7 <color=#9654cc>Poison</color> Damage. Has a 30% chance to apply <color=#9654cc>Toxic Poison</color> x3																								
+ModCardInfoZubat2	Melee. Deal 8 <color=#9fa224>Bug</color> Damage. 25% <color=#FAC970>Lifesteal</color>																								
+ModCardInfoZubat2Up	Melee. Deal 12 <color=#9fa224>Bug</color> Damage. 25% <color=#FAC970>Lifesteal</color>																								
+ModCardInfoZubat3	Ranged. Deal 7 <color=#74acd0>Flying</color> Damage. 20% chance to <color=#FAC970>Stun</color>.																								
+ModCardInfoZubat3Up	Ranged. Deal 10 <color=#74acd0>Flying</color> Damage. 20% chance to <color=#FAC970>Stun</color>																								
+ModCardInfoZubat4	Ranged. Deal 7 <color=#714670>Ghost</color> Damage																								
+ModCardInfoZubat4Up	Ranged. Deal 10 <color=#714670>Ghost</color> Damage																								
+ModCardInfoZubat5	Skill. Gain <color=#FAC970>Dodge</color> x1. Until the start of your next turn, enemies that miss an attack against you take 4 Melee <color=#74acd0>Flying</color> Damage.																								
+ModCardInfoZubat5Up	Skill. Gain <color=#FAC970>Dodge</color> x1. Until the start of your next turn, enemies that miss an attack against you take 6 Melee <color=#74acd0>Flying</color> Damage.																								
+ModCardInfoCurse1	Curse. -2 Attack Damage while in your hand. <color=#FAC970>Removed</color> at the end of your turn.																								
+ModCardInfoCurse2	Curse. While this is in your hand, you cannot use Skill cards. <color=#FAC970>Removed</color> at the end of your turn.																								
+ModCardInfoCurse3	Curse. <color=#FAC970>Removed</color>. Cost is equal to the amount of Curse cards in your hand.																								
+ModCardInfoCurse4	Curse. When your turn ends, gain <color=#714670>Sleep</color> x1.																								
+ModCardInfoCurse5	Curse. When this is in your hand, you cannot use Attack cards on enemies intending to attack. <color=#FAC970>Removed</color>																								
+ModCardInfoCurse6	Curse. When this enters your hand, lose your Flying Type. At the end of your Opponent's turn, gain your Flying Type back (if applicable).																								
+ModCardInfoCurse7	Curse. Lose 1/4th of your Current HP at the end of your turn.																								
+ModCardInfoCurse8	Curse. Gain a <color=#e6613e>Fire</color> Weakness while this card is in your hand.																								
+ModCardInfoCurse9	Curse. If you have <color=#714670>Sleep</color> stacks, take 5 Damage per stack. <color=#FAC970>Removed</color> if you have no <color=#714670>Sleep</color> stacks.																								
+ModCardInfoCurse10	Curse. The first card type used locks you into an Encore, restricting you to only that card type for the rest of your turn. <color=#FAC970>Removed</color>																								
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									

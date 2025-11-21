@@ -1,0 +1,6 @@
+Name	Pokemon Outlaws
+Author	SirDgor
+Description	A Total-Conversion Pokemon Mod for Pirates Outlaws
+Version	0.1
+Game Version	3.2
+Icon	SampleHeroIcon

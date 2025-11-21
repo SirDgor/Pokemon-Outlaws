@@ -1,0 +1,38 @@
+ID	可用版本	角色名称	角色种族	角色小图标	角色图片包名	角色图片名称	行为图标与角色顶部的相对位子	碰撞体宽度	血条的长度	预设体名字	职业定位
+int	float	string	List<Race>	string	string	string	Vector2	float	int	string	CharacterClass
+ID	CanUseVersion	Name	Race	Icon	SpritePackage	Sprite	ActionIconPos	ColliderWidth	HealthLength	PrefabName	CharacterClass
+ModCharacterID(1)	1	Hero_Name_Zubat	[-1]	Shop_HeroIcon_Zubat	hero	HeroZubat	{"x":0,"y":0}	3.6	280	Character_SpritePrefab	1
+ModCharacterID(2)	1	Hero_Name_Golbat	[-1]		hero	HeroZubat	{"x":0,"y":0}	3.6	280	Character_SpritePrefab	1
+ModCharacterID(3)	1	Hero_Name_Crobat	[-1]		hero	HeroZubat	{"x":0,"y":0}	3.6	280	Character_SpritePrefab	1
+ModCharacterID(101)	1	Rattata	[1]		human	EnemyRattata	{"x":0,"y":-2.6}	3.6	280	Character_SpritePrefab	3
+ModCharacterID(102)	1	Lickitung	[1]		human	EnemyLickitung	{"x":0,"y":-1.6}	3.6	280	Character_SpritePrefab	1
+ModCharacterID(103)	1	Ekans	[1]		human	EnemyEkans	{"x":0,"y":-1.6}	3.6	280	Character_SpritePrefab	3
+ModCharacterID(104)	1	Caterpie	[1]		human	enemyCaterpie	{"x":0,"y":-1.6}	3.6	280	Character_SpritePrefab	3
+ModCharacterID(105)	1	Metapod	[1]		human	enemyMetapod	{"x":0,"y":-1.6}	3.6	280	Character_SpritePrefab	1
+ModCharacterID(106)	1	Butterfree	[1]		human	enemyButterfree	{"x":0,"y":-1.6}	3.6	280	Character_SpritePrefab	3
+ModCharacterID(107)	1	Mankey	[1]		human	enemyMankey	{"x":0,"y":0}	3.6	280	Character_SpritePrefab	3
+ModCharacterID(108)	1	Primeape	[1]		human	enemyPrimeape	{"x":0,"y":0}	3.6	280	Character_SpritePrefab	3
+ModCharacterID(109)	1	Oddish	[1]		human	enemyOddish	{"x":0,"y":0}	3.6	280	Character_SpritePrefab	3
+ModCharacterID(110)	1	Gloom	[1]		human	enemyGloom	{"x":0,"y":0}	3.6	280	Character_SpritePrefab	3
+ModCharacterID(111)	1	Clefairy	[1]		human	enemyClefairy	{"x":0,"y":-1.6}	3.6	280	Character_SpritePrefab	4
+ModCharacterID(112)	1	Geodude	[1]		human	enemyGeodude	{"x":0,"y":-1.6}	3.6	280	Character_SpritePrefab	4
+ModCharacterID(113)	1	Staryu	[1]		human	enemyStaryu	{"x":0,"y":-1.6}	3.6	280	Character_SpritePrefab	4
+ModCharacterID(114)	1	Pikachu	[1]		human	enemyPikachu	{"x":0,"y":-1.6}	3.6	280	Character_SpritePrefab	4
+ModCharacterID(301)	1	Onix	[1]		human	enemyOnix	{"x":0,"y":-1.6}	3.6	640	Character_SpritePrefab	5
+ModCharacterID(302)	1	Starmie	[1]		human	enemyStarmie	{"x":0,"y":-1.6}	3.6	280	Character_SpritePrefab	5
+ModCharacterID(303)	1	Raichu	[1]		human	enemyRaichu	{"x":0,"y":-1.6}	3.6	280	Character_SpritePrefab	5
+ModCharacterID(304)	1	Vileplume	[1]		human	enemyVileplume	{"x":0,"y":0}	3.6	280	Character_SpritePrefab	5
+ModCharacterID(500)	1	Team Rocket Grunt (Male)	[-1]	Shop_HeroIconMaleRocket	hero	HeroRocketAnim1	{"x":0,"y":0}	3.6	280	Character_SpritePrefab	1
+ModCharacterID(501)	1	HeroRocketAnim2	[-1]		hero	HeroRocketAnim2	{"x":0,"y":0}	3.6	280	Character_SpritePrefab	1
+ModCharacterID(502)	1	HeroRocketAnim3	[-1]		hero	HeroRocketAnim3	{"x":0,"y":0}	3.6	280	Character_SpritePrefab	1
+ModCharacterID(503)	1	HeroRocketAnim4	[-1]		hero	HeroRocketAnim4	{"x":0,"y":0}	3.6	280	Character_SpritePrefab	1
+ModCharacterID(504)	1	HeroRocketAnim5	[-1]		hero	HeroRocketAnim5	{"x":0,"y":0}	3.6	280	Character_SpritePrefab	1
+ModCharacterID(505)	1	HeroRocketAnim6	[-1]		hero	HeroRocketAnim6	{"x":0,"y":0}	3.6	280	Character_SpritePrefab	1
+ModCharacterID(506)	1	HeroRocketAnim7	[-1]		hero	HeroRocketAnim7	{"x":0,"y":0}	3.6	280	Character_SpritePrefab	1
+ModCharacterID(507)	1	HeroRocketAnim8	[-1]		hero	HeroRocketAnim8	{"x":0,"y":0}	3.6	280	Character_SpritePrefab	1
+ModCharacterID(508)	1	HeroRocketAnim9	[-1]		hero	HeroRocketAnim9	{"x":0,"y":0}	3.6	280	Character_SpritePrefab	1
+ModCharacterID(509)	1	HeroRocketAnim10	[-1]		hero	HeroRocketAnim10	{"x":0,"y":0}	3.6	280	Character_SpritePrefab	1
+ModCharacterID(510)	1	HeroRocketAnim11	[-1]		hero	HeroRocketAnim11	{"x":0,"y":0}	3.6	280	Character_SpritePrefab	1
+ModCharacterID(511)	1	HeroRocketAnim12	[-1]		hero	HeroRocketAnim12	{"x":0,"y":0}	3.6	280	Character_SpritePrefab	1
+ModCharacterID(512)	1	HeroRocketAnim13	[-1]		hero	HeroRocketAnim13	{"x":0,"y":0}	3.6	280	Character_SpritePrefab	1
+ModCharacterID(513)	1	HeroRocketAnim14	[-1]		hero	HeroRocketAnim14	{"x":0,"y":0}	3.6	280	Character_SpritePrefab	1
