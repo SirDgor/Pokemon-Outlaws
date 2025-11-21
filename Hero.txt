@@ -1,4 +1,0 @@
-ID	可用版本	所用角色ID	角色被动能力图片名称
-int	float	int	string
-ID	CanUseVersion	CharacherID	CharacterAbilityImage
-ModHeroID(1)	1	ModCharacterID(500)	AbilityIcon_Pokemon
